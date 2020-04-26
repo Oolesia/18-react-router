@@ -1,0 +1,22 @@
+.contacts{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color:#282c34;
+    color: white;
+}
+.contacts h5, .contacts p{
+margin: 15px;
+}
+.card{
+    background-color: rgba(105, 105, 105, 0.548);
+    margin: 15px;
+    padding: 5px 20px;
+    width: 170px;
+}
+.filter-inp{
+    margin-top: 20px;
+}
+.card img{
+    width: 50%;
+}
