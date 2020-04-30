@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.css';
-import nature1 from './nature-1.jpg';
-import nature2 from './nature-2.jpg';
-import nature3 from './nature-3.jpg';
-import nature4 from './nature-4.jpg';
-import nature5 from './nature-5.jpg';
-import nature6 from './nature-6.jpg';
+import nature1 from '../../assets/img/nature-1.jpg';
+import nature2 from '../../assets/img/nature-2.jpg';
+import nature3 from '../../assets/img/nature-3.jpg';
+import nature4 from '../../assets/img/nature-4.jpg';
+import nature5 from '../../assets/img/nature-5.jpg';
+import nature6 from '../../assets/img/nature-6.jpg';
 
 export default () => {
     return(

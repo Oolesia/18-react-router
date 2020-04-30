@@ -11,16 +11,16 @@ export default class Header extends Component{
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/18-react-router">Home</Link>
             </li>
             <li>
-              <Link to="/posts">Posts</Link>
+              <Link to="/18-react-router/posts">Posts</Link>
             </li>
             <li>
-              <Link to="/photo">Photo</Link>
+              <Link to="/18-react-router/photo">Photo</Link>
             </li>
             <li>
-              <Link to="/contacts-book">Contacts book</Link>
+              <Link to="/18-react-router/contacts-book">Contacts book</Link>
             </li>
           </ul>
         </nav>

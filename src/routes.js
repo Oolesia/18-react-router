@@ -7,19 +7,19 @@ import Contacts from './pages/contacts';
 
 export const routes = [
     {
-        path: '/posts',
+        path: '/18-react-router/posts',
         comonents: <Posts/>
     },
     {
-        path: '/photo',
+        path: '/18-react-router/photo',
         comonents: <Photo/>
     },
     {
-        path: '/contacts-book',
+        path: '/18-react-router/contacts-book',
         comonents: <Contacts/>
     },
     {
-        path: '/',
+        path: '/18-react-router/',
         comonents: <Home/>,
         exact: true
     },
